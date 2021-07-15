@@ -51,8 +51,8 @@ Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=h
  📈 **My GitHub Stats:**
 
 <p>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=hieptran1812&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hiep's Github Stats">
-  <img align="right" height="180em" width=85% src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieptran1812&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hieptran1812&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hiep's Github Stats">
+  <img height="180em" width=85% src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieptran1812&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <!-- <p>
