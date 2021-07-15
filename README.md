@@ -43,8 +43,8 @@ Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=h
 - 🚀 I’m currently learning Data Structures and Algorithms on [Hackerank](https://www.hackerrank.com/DungGramer);
 - 💬 Ask me about anything, I am happy to help;
 <!-- - 📝 I regulary write articles on [hashnode](https://dunggramer.hashnode.dev/); -->
-- 📫 How to reach me: dung.dev.gramer@gmail.com;
-- 📝 [Resume](https://dunggramer.github.io/DungGramer/).
+- 📫 How to reach me: hieptran.jobs@gmail.com;
+<!-- - 📝 [Resume](https://dunggramer.github.io/DungGramer/). -->
 
 </br> -->
  
