@@ -13,13 +13,13 @@ Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=h
 
 ## Knowledge
 **Languages**  &nbsp; 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/DungGramer/)](https://github.com/DungGramer/)
-[![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=white&link=https://github.com/DungGramer/)](https://github.com/DungGramer/)
+<!-- [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/DungGramer/)](https://github.com/DungGramer/)
+[![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=white&link=https://github.com/DungGramer/)](https://github.com/DungGramer/) -->
 
-**Front-end / Mobile**  &nbsp; 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/KhawajaAli246/)](https://github.com/DungGramer/)
+**Framework/Libary**  &nbsp; 
+<!-- [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/KhawajaAli246/)](https://github.com/DungGramer/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/KhawajaAli246/)](https://github.com/DungGramer/)
-[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/DungGramer/)
+[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/DungGramer/) -->
 
 <br />
 
@@ -51,8 +51,8 @@ Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=h
  📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hieptran1812&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hiep's Github Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieptran1812&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=hieptran1812&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hiep's Github Stats">
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieptran1812&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <!-- <p>
