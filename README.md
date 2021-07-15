@@ -48,13 +48,12 @@ Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=h
 - 📫 How to reach me: hieptran.jobs@gmail.com
 <!-- - 📝 [Resume](https://dunggramer.github.io/DungGramer/). -->
 
-</br> -->
+</br>
  
  📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hieptran1812&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hiep's Github Stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieptran1812&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+ 
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=hieptran1812&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hiep's Github Stats"></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieptran1812&exclude_repo=KNN-Image Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <!-- <p>
