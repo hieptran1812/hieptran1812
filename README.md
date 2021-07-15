@@ -9,6 +9,8 @@ Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=h
 ### <div align="center">👍 I'm Trần Quang Hiệp. 🚀</div>
 <!-- ❤️ I love Programming, making application/software for Mobile, Web and Desktop. It does feel amazing to see myself improving. My unequivocal love for making things that change the world. That's why I like to make things that make a difference.  -->
 
+<p align="center"><img src = "https://media.istockphoto.com/vectors/machine-learning-3-step-infographic-artificial-intelligence-machine-vector-id962219860?k=6&m=962219860&s=612x612&w=0&h=yricYyUqZbILMHp3IvtenS3xbRDhu1w1u5kk2az5tbo="></p>
+
 <br/>
 
 ## Knowledge
@@ -43,7 +45,7 @@ Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=h
 - 🚀 I’m currently learning Data Structures and Algorithms on [Hackerank](https://www.hackerrank.com/DungGramer);
 - 💬 Ask me about anything, I am happy to help;
 <!-- - 📝 I regulary write articles on [hashnode](https://dunggramer.hashnode.dev/); -->
-- 📫 How to reach me: hieptran.jobs@gmail.com;
+- 📫 How to reach me: hieptran.jobs@gmail.com
 <!-- - 📝 [Resume](https://dunggramer.github.io/DungGramer/). -->
 
 </br> -->
