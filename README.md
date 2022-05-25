@@ -18,5 +18,7 @@ Besides coding, I am passionate about building technology communities. I am happ
   </a>
 </div>
 
+In my free time, I read and write. I love to write, especially on topics related to computer science, psychology and economics.
+
 If you want to talk, the best way to contact me is usually through [Facebook](https://www.facebook.com/hieptran1812/), [Email](mailto:hieptran.jobs@gmail.com), [Linkedin](https://www.linkedin.com/in/hieptran01/)
 
