@@ -1,4 +1,4 @@
-### Hi there! 👋 
+### Hi there! I'm Hiep 👋 
 
 <div>
    <a href="#">
@@ -6,7 +6,7 @@
   </a>
 </div>
 
-I’m an **AI Engineer** at [VCCorp](https://vccorp.vn/), which provides various AI solutions for businesses. My work is mostly about **Computer Vision**, **NLP** and **MLOps**.
+I’m an **AI Engineer** at [VCCorp](https://vccorp.vn/), which provides various AI solutions for businesses, digital transformation. My work is mostly about **Computer Vision**, **NLP** and **MLOps**.
 
 Besides coding, I am passionate about building technology communities. I am happy to connect with recruiters, software engineers, friends, community program leads and anyone who share some of the interests with me! I'm currently looking for internships in machine learning.
 
