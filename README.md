@@ -6,7 +6,7 @@
   </a>
 </div>
 
-I’m an **AI Engineer**, which provides various AI solutions for businesses, digital transformation. My work is mostly about **Computer Vision**, **NLP** and **MLOps**. In addition, I am interested in researching about Database, System Architecture and Blockchain.
+I’m an **AI Engineer**, which provides various AI solutions for businesses, digital transformation. My work is mostly about **Computer Vision**, **LLM** and **MLOps**. In addition, I am interested in researching about Database, System Architecture and Blockchain.
 
 Besides coding, I am passionate about building technology communities. I am happy to connect with recruiters, software engineers, friends, community program leads and anyone who share some of the interests with me!
 
