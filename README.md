@@ -24,7 +24,6 @@ In my free time, I read and write. I love to write, especially on topics related
 <br />
 
 - I'm best reached via email: [Email](mailto:hieptran.jobs@gmail.com)
-- [Facebook](https://www.facebook.com/hieptran1812)
 - [LinkedIn](https://www.linkedin.com/in/hieptran01/)
 - For detailed information about me, please view [my curriculum vitae]()
 
